@@ -1,16 +1,62 @@
-## Hi there 👋
+# vit-ops
 
-<!--
-**vit-ops/vit-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer focused on **Web Development**, building modern, performant, and well-structured solutions. I have a solid foundation across multiple programming paradigms, allowing me to work comfortably with low-level systems, scripting, and web applications.
 
-Here are some ideas to get you started:
+My work is guided by **code clarity**, **best practices**, **clean architecture**, and **continuous learning**. I prioritize understanding the problem deeply before proposing solutions, aiming for maintainability, efficiency, and long-term value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Professional Overview
+
+I primarily operate within the web ecosystem, developing applications that balance performance, security, and user experience. In parallel, I maintain hands-on experience with lower-level and scripting languages, which strengthens my ability to analyze, optimize, and automate systems.
+
+I am particularly interested in projects involving:
+
+* Scalable web systems
+* Cross-technology integrations
+* Well-documented and testable codebases
+* Technical solutions with real-world impact
+
+---
+
+## Technologies and Languages
+
+Practical experience with the following languages, applied across different contexts:
+
+* **Web Development**: primary focus, with strong attention to architecture, performance, and structure
+* **C / C++**: low-level understanding, memory management, and performance optimization
+* **Python**: automation, scripting, and application support
+* **JavaScript (Scripting)**: logic, automation, and interactions
+* **Lua**: lightweight scripting and system integration
+
+This versatility allows me to select the most appropriate tool for each technical challenge.
+
+---
+
+## GitHub Statistics
+
+The metrics below reflect my public activity, consistency, and language diversity over time.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vit-ops\&show_icons=true\&theme=dracula\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vit-ops\&theme=dracula\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vit-ops\&layout=compact\&theme=dracula\&hide_border=true)
+
+---
+
+## Development Principles
+
+* Clean and readable code
+* Consistent organization and standards
+* Critical and analytical thinking
+* Continuous improvement
+* Focus on sustainable solutions
+
+---
+
+## Final Notes
+
+This profile aggregates projects, studies, and experiments that represent my growth as a developer. Each repository reflects hands-on learning and a strong commitment to technical quality.
+
+Feel free to explore the projects and follow my progress.
