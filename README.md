@@ -39,7 +39,7 @@ The metrics below reflect my public activity, consistency, and language diversit
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vit-ops\&show_icons=true\&theme=dracula\&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vit-ops\&theme=dracula\&hide_border=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vit-ops\&layout=compact\&theme=dracula\&hide_border=true)
 
