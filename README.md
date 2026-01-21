@@ -4,7 +4,8 @@ Desenvolvedor **Back-end** focado em **Web** e **Software**.
 Atuo no desenvolvimento de sistemas, APIs e aplicações web.
 
 **Meu Portifolio**
-https://my-portifolio-89uo1hfeu-vit-ops-projects.vercel.app/
+[![Preview do site](https://github.com/vit-ops/Portifolio/blob/main/public/images/preview.png)](https://my-portifolio-89uo1hfeu-vit-ops-projects.vercel.app/)
+
 
 ### Tecnologias
 Lua · JavaScript · Node.js · Python · Flask · C · C++ · HTML · CSS · Java
